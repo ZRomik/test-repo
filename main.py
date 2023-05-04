@@ -2,5 +2,5 @@ print(
     "Hello World!"
 )
 print(
-    "Это приветствие из ветки add-hello-world"
+    "Это приветствие выводится из ветки add-another-hello-world"
 )
